@@ -1,2 +1,2 @@
 # Dumm-Flix
-A React Netflix Clone built while learning React!
+A React Netflix UI-Clone built while learning React!
